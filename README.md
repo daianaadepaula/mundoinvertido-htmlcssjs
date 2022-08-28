@@ -5,13 +5,13 @@
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+## ▶️ Implantação
+- Front end web: Netlify
+- Front back web: Firebase
 ## 💻 Tecnologias
-- HTML
-- CSS
-- JavaScript
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
 
 ## 💬 Assuntos abordados
 - HTML
@@ -83,25 +83,11 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [W3C - World Wide Web Consortium](http://w3c.org)
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
+
+## 🌎 Minhas redes sociais
 <p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
+    <img src="https://github.com/daianaadepaula/daianaadepaula/blob/master/assets/daianaanimacaopiscadinhasemcirculo.png" width="100px;" alt="Foto da Daiana de Paula no GitHub"/><br>
+    <p>&nbsp&nbsp&nbspDaiana de Paula<br>
+    &nbsp&nbsp&nbsp<a href="https://www.instagram.com/daianaadepaula_/">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/daianaadepaula">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/daianadepaula/">LinkedIn</a></p>
 </p>
 <br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?v=4"/>
-    <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
-    </p>
-</p>
