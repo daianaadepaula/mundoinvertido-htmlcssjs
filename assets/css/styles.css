@@ -382,6 +382,13 @@ section {
   color: var(--field-background-color);
 }
 
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
 /* FOOTER STYLES */
 
 footer {
